@@ -27,8 +27,6 @@ img{
     max-height: auto;
 }
 .picture{
-    border-radius: 50%;
-    margin: 10px;
     text-align: center;
 }
 .faith{
@@ -83,6 +81,11 @@ input{
     height: 30px;
     position: relative;
     left: 80px;
+}
+button{
+    position: relative;
+    left: 80px;
+    background-color: gray;
 }
 footer{
     align-content: center;
