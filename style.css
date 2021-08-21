@@ -60,7 +60,7 @@ img{
     text-align: center;
     width: 300px;
     position: relative;
-    left: 300px;
+    left: 100px;
 }
 .expertise{
     margin: 10px;
@@ -69,13 +69,13 @@ img{
     text-align: center;
     width: 300px;
     position: relative;
-    left: 300px;
+    left: 100px;
     border-style: groove 2px gray;
 }
 .education{
     margin-bottom: 0px;
     position: relative;
-    left: 300px;
+    left: 100px;
 }
 input{
     margin: 10px;
