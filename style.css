@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+    color: gray;
+    font-size: 100%;
+}
+/* Media Queries: Tablet Landscape */
+@media screen and (max-width: 1060px){
+    #primary {width: 67%}
+    #secondary {width: 30%; margin-left: 3%;}
+}
+/* Media Queries: Tablet Portrait */
+@media screen and (max-width: 768px){
+    #primary { width: 100%;}
+    #secondary {width: 100%; margin: 0; border: none;}
+}
+hr{
+    border: 0px;
+    height: 2px;
+    background-image: linear-gradient(to right, transparent, gray, transparent);
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 50%;
+    max-width: 100%;
+    max-height: auto;
+}
+.picture{
+    border-radius: 50%;
+    margin: 10px;
+    text-align: center;
+}
+.faith{
+    text-align: center;
+    margin-top: 20px;
+    position: relative;
+    bottom: 20px;
+}
+.oladele{
+    text-align: center;
+    color: orange;
+    position: relative;
+    bottom: 20px;
+}
+.web{
+    font-size: small;
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}
+.contact{
+    text-align: center;
+    margin-bottom: 0px;
+}
+.intro{
+    margin: 10px;
+}
+.info{
+    text-align: center;
+    width: 300px;
+    position: relative;
+    left: 300px;
+}
+.expertise{
+    margin: 10px;
+}
+.good{
+    text-align: center;
+    width: 300px;
+    position: relative;
+    left: 300px;
+    border-style: groove 2px gray;
+}
+.education{
+    margin-bottom: 0px;
+    position: relative;
+    left: 300px;
+}
+input{
+    margin: 10px;
+    border-radius: 10px;
+    height: 30px;
+    position: relative;
+    left: 80px;
+}
+footer{
+    align-content: center;
+}
