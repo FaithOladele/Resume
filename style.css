@@ -87,9 +87,9 @@ button{
     position: relative;
     left: 100px;
     background-color: gray;
-    height: 30px;
-    width: 60px;
-    border-radius: 5px;
+    height: 40px;
+    width: 70px;
+    border-radius: 10px;
 }
 footer{
     align-content: center;
