@@ -58,6 +58,7 @@ img{
 .info{
     text-align: center;
     width: 300px;
+    margin: 10px 0 10px 0;
 }
 .expertise{
     margin: 10px;
@@ -66,8 +67,6 @@ img{
 .good{
     text-align: center;
     width: 300px;
-    position: relative;
-    left: 100px;
     border-style: groove 2px gray;
 }
 .education{
