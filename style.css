@@ -34,6 +34,7 @@ img{
     margin-top: 20px;
     position: relative;
     bottom: 20px;
+    padding: 5px 0 0 0;
 }
 .oladele{
     text-align: center;
@@ -50,6 +51,7 @@ img{
 .contact{
     text-align: center;
     margin-bottom: 0px;
+    padding: 5px 0 5px 0;
 }
 .intro{
     margin: 10px;
@@ -59,7 +61,7 @@ img{
     text-align: center;
     width: 300px;
     margin: 10px 0 10px 0;
-    padding: 5px 0 5px 10px;
+    padding: 5px 0 5px 15px;
 }
 .expertise{
     margin: 10px;
@@ -69,6 +71,7 @@ img{
     text-align: center;
     width: 300px;
     border-style: groove 2px gray;
+    padding: 5px 0 5px 15px;
 }
 .education{
     margin-bottom: 0px;
