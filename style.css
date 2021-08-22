@@ -9,7 +9,7 @@ body{
     #secondary {width: 30%; margin-left: 3%;}
 }
 /* Media Queries: Tablet Portrait */
-@media screen and (max-width: 768px){
+@media screen and (max-width: 760px){
     #primary { width: 100%;}
     #secondary {width: 100%; margin: 0; border: none;}
 }
@@ -58,8 +58,6 @@ img{
 .info{
     text-align: center;
     width: 300px;
-    position: relative;
-    left: 100px;
 }
 .expertise{
     margin: 10px;
@@ -88,8 +86,8 @@ button{
     position: relative;
     left: 100px;
     background-color: gray;
-    height: 25px;
-    width: 50px;
+    height: 30px;
+    width: 60px;
     border-radius: 5px;
 }
 footer{
