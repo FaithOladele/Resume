@@ -37,7 +37,7 @@ img{
 }
 .oladele{
     text-align: center;
-    color: orange;
+    color: gray;
     position: relative;
     bottom: 20px;
 }
@@ -53,16 +53,17 @@ img{
 }
 .intro{
     margin: 10px;
-    color: orange;
+    color: gray;
 }
 .info{
     text-align: center;
     width: 300px;
     margin: 10px 0 10px 0;
+    padding: 5px 0 5px 10px;
 }
 .expertise{
     margin: 10px;
-    color: orange;
+    color: gray;
 }
 .good{
     text-align: center;
