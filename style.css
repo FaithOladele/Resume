@@ -53,6 +53,7 @@ img{
 }
 .intro{
     margin: 10px;
+    color: orange;
 }
 .info{
     text-align: center;
@@ -84,8 +85,10 @@ input{
 }
 button{
     position: relative;
-    left: 80px;
+    left: 100px;
     background-color: gray;
+    height: 25px;
+    width: 30px;
 }
 footer{
     align-content: center;
