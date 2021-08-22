@@ -23,13 +23,9 @@ img{
     width: 100px;
     margin: 10px;
     border-radius: 50%;
-    max-width: 100%;
-    max-height: auto;
-    z-index: 99;
 }
 .picture{
     text-align: center;
-    z-index: 99;
 }
 .faith{
     text-align: center;
