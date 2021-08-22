@@ -63,6 +63,7 @@ img{
 }
 .expertise{
     margin: 10px;
+    color: orange;
 }
 .good{
     text-align: center;
@@ -88,7 +89,8 @@ button{
     left: 100px;
     background-color: gray;
     height: 25px;
-    width: 30px;
+    width: 50px;
+    border-radius: 5px;
 }
 footer{
     align-content: center;
