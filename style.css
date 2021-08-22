@@ -25,9 +25,11 @@ img{
     border-radius: 50%;
     max-width: 100%;
     max-height: auto;
+    z-index: 99;
 }
 .picture{
     text-align: center;
+    z-index: 99;
 }
 .faith{
     text-align: center;
@@ -38,7 +40,7 @@ img{
 }
 .oladele{
     text-align: center;
-    color: gray;
+    color: orange;
     position: relative;
     bottom: 20px;
 }
@@ -61,7 +63,7 @@ img{
     text-align: center;
     width: 300px;
     margin: 10px 0 10px 0;
-    padding: 5px 0 5px 15px;
+    padding: 5px 0 5px 20px;
 }
 .expertise{
     margin: 10px;
@@ -71,7 +73,7 @@ img{
     text-align: center;
     width: 300px;
     border-style: groove 2px gray;
-    padding: 5px 0 5px 15px;
+    padding: 5px 0 5px 20px;
 }
 .education{
     margin-bottom: 0px;
